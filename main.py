@@ -30,4 +30,6 @@ add_button.grid(column=1, row=4, columnspan=2, sticky=W+E)
 generate_passw_button = Button(text="Generate Password")
 generate_passw_button.grid(column=2, row=3, sticky=W+E)
 
+print ("something")
+
 window.mainloop()
