@@ -1,0 +1,5 @@
+seed | bird | treehay | potato | porigehorse | rabbit | 
+horse | rabbit | potato
+asdasdasdas | asdasd | asdsadasd
+zazaza | zazaza | zazazaz
+some@email.com | potato | cabbage
